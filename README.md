@@ -38,3 +38,4 @@ All of your suggestions are welcome!!
 3. Follow the [camelCase](https://en.wikipedia.org/wiki/Camel_case) naming convention for source files.
 4. If you want to make a folder, please keep the first letter of the folder name capitalised.
 5. Add your code to the proper folder.
+6. Please Add Optimized Code which is useful to learn but if you are beginner then, we are happy to see your contribution. 
