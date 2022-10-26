@@ -1,5 +1,6 @@
 //ARRAY AS AN ADT:
 #include<stdio.h>
+#include<stdlib.h>
 void create(){
     int arr[20];
 }
